@@ -1,0 +1,7 @@
+C:\Users\Juras Rabačauskas\source\repos\VismaTask\bin\Debug\VismaTask.exe.config
+C:\Users\Juras Rabačauskas\source\repos\VismaTask\bin\Debug\VismaTask.exe
+C:\Users\Juras Rabačauskas\source\repos\VismaTask\bin\Debug\VismaTask.pdb
+C:\Users\Juras Rabačauskas\source\repos\VismaTask\obj\Debug\VismaTask.csprojAssemblyReference.cache
+C:\Users\Juras Rabačauskas\source\repos\VismaTask\obj\Debug\VismaTask.csproj.CoreCompileInputs.cache
+C:\Users\Juras Rabačauskas\source\repos\VismaTask\obj\Debug\VismaTask.exe
+C:\Users\Juras Rabačauskas\source\repos\VismaTask\obj\Debug\VismaTask.pdb
